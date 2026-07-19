@@ -1,0 +1,1 @@
+Prompt engineering is the systematic practice of designing, structuring, and refining text inputs to guide generative AI models toward producing the best possible outputs. Fundamental techniques include being highly specific, providing clear context or examples, and assigning a clear persona to constrain the model's behavior.

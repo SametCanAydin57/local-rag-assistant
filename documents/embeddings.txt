@@ -1,0 +1,1 @@
+Embeddings are numerical vector representations of text, images, or audio that capture their underlying semantic meaning and context. By converting human language into mathematical formats, they allow machine learning systems to measure conceptual similarities between different pieces of information.

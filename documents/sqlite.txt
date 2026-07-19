@@ -1,0 +1,1 @@
+SQLite is a fast, self-contained, and serverless relational database engine widely used for local, lightweight data storage in applications. In modern AI development, it can be extended with specific modules to efficiently store and query vector embeddings without requiring a complex external database server.

@@ -1,0 +1,1 @@
+Foundry Local is a lightweight, end-to-end SDK by Microsoft designed for developers to natively embed AI inference into their applications. It runs completely on the user's device utilizing automatic hardware acceleration, ensuring complete data privacy and functioning without internet connectivity.

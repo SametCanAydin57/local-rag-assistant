@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+rag.db
+
+.vscode/

@@ -1,0 +1,1 @@
+Vector search is an advanced querying technique that finds the most relevant information by measuring the mathematical distance between embeddings. Instead of relying on exact keyword matches, it accurately retrieves data that is conceptually and semantically similar to the user's original query.
