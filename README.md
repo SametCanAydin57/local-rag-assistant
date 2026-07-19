@@ -300,3 +300,4 @@ Possible extensions:
 # Author
 
 Developed as a practical implementation of a local Retrieval-Augmented Generation system using Microsoft Foundry Local.
+by Samet Can Aydın*
