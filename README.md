@@ -24,6 +24,12 @@ The system:
 
 ---
 
+# Project Demo Video
+
+**Watch the project walkthrough and demo video here:** [Google Drive Video Link](https://drive.google.com/file/d/1uwfKmiVWrBKIZw4mOf6dOUWlFtuvafUH/view?usp=sharing)
+
+---
+
 # Architecture
 
 ```
